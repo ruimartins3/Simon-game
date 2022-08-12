@@ -12,5 +12,5 @@
 Press the START button. 
 <p>When Simon gives you the 1st color, press it.</p>
 <p>After that you'll have to memorize the sequence of colors he is showing you.</p>
-If you fail the correct order, the screen turns red and you lose.
-Press start to play again!
+<p>If you fail the correct order, the screen turns red and you lose.</p>
+<p>Press start to play again!</p>
