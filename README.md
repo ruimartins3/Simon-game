@@ -10,7 +10,7 @@
 
 ![20103a5a9fcaa103f8b42473769e2399](https://user-images.githubusercontent.com/91401714/184375920-7408a200-38b4-4969-ba0e-d8b6fd39c61c.png)
 Press the START button. 
-When Simon gives you the 1st color, press it. 
-After that you'll have to memorize the sequence of colors he is showing you.
+<p>When Simon gives you the 1st color, press it.</p>
+<p>After that you'll have to memorize the sequence of colors he is showing you.</p>
 If you fail the correct order, the screen turns red and you lose.
 Press start to play again!
