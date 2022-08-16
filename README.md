@@ -9,7 +9,7 @@
 </p>
 
 ![20103a5a9fcaa103f8b42473769e2399](https://user-images.githubusercontent.com/91401714/184375920-7408a200-38b4-4969-ba0e-d8b6fd39c61c.png)
-Press the START button. 
+<h4>Press the START button.</h4>
 <h4><p>When Simon gives you the 1st color, press it.</p>
 <p>A second color will be added and your level will increase to "level 2" and so on.</p>
 <p>The objective of the game is to memorize the sequence of colors he is showing you.</p>
